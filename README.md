@@ -17,7 +17,7 @@ Winter 2022
 - [Dates & Deadline](#dates--deadline)
 - [Course Description](#course-description)
 - [Assessment](#assessment)
-- [Perks](#perks)
+- [Karma](#karma)
 - [Tutorial Exercises](#tutorial-exercises)
 - [Your Final Mark Calculation](#your-final-mark-calculation)
 - [Educational Outcomes](#educational-outcomes)
