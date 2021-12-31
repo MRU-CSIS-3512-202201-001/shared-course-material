@@ -2,7 +2,7 @@
 Faculty of Science and Technology  
 Department of Mathematics and Computing
 
-### COMP 3512 Course Outline
+### UNOFFICIAL COMP 3512 Course Outline (still a work in progress as of 2021-12-31)
 
 Web 2: Web Application Development  
 Winter 2022
