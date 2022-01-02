@@ -151,7 +151,7 @@ Other important dates at MRU can be found [here](https://www.mtroyal.ca/academic
 
 For your viewing pleasure, [here are the dates and deadlines](dates-and-deadlines.md) for all the things "worth marks".
 
-If you like calendars better, [I've got you covered](https://docs.google.com/spreadsheets/d/19JryYaFt5C6VlA9PvLt-6rDAR5XmhIZm/edit?usp=sharing&ouid=115479620004693206268&rtpof=true&sd=true).
+If you like calendars better, [I've got you covered](https://docs.google.com/spreadsheets/d/1Q83dl7oYveLQAU1EFh4YaBsy2sKJGN4NHb6XcikW68w/edit?usp=sharing).
 
 > _You'll have quizzes every 3 weeks or so._
 >
