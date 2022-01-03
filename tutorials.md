@@ -24,12 +24,12 @@ These are the links to the GitHub Classroom "assignments" you need to accept and
 
 _N/A means "not available (yet)"_
 
-| Date       | Tutorial Number | Link (10 AM)    | Link    (11 AM) |
-| ---------- | --------------- | --------------- | --------------- |
-| 2022-01-10 | 01              | [10 AM link](https://classroom.github.com/a/rVE5S0fy) | [11 AM link](https://classroom.github.com/a/rVE5S0fy) |
-| 2022-01-17 | 02              | [N/A](#)        | [N/A](#)        |
-| 2022-01-31 | 04              | [N/A](#)        | [N/A](#)        |
-| 2022-02-07 | 05              | [N/A](#)        | [N/A](#)        |
-| 2022-02-28 | 07              | [N/A](#)        | [N/A](#)        |
-| 2022-03-14 | 09              | [N/A](#)        | [N/A](#)        |
-| 2022-03-21 | 10 (last)       | [N/A](#)        | [N/A](#)        |
+ | Date       | Tutorial Number | Link (10 AM)                                          | Link    (11 AM)                                       |
+ | ---------- | --------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+ | 2022-01-10 | 01              | [10 AM link](https://classroom.github.com/a/rVE5S0fy) | [11 AM link](https://classroom.github.com/a/rVE5S0fy) |
+ | 2022-01-17 | 02              | [N/A](#)                                              | [N/A](#)                                              |
+ | 2022-01-31 | 04              | [N/A](#)                                              | [N/A](#)                                              |
+ | 2022-02-07 | 05              | [N/A](#)                                              | [N/A](#)                                              |
+ | 2022-02-28 | 07              | [N/A](#)                                              | [N/A](#)                                              |
+ | 2022-03-14 | 09              | [N/A](#)                                              | [N/A](#)                                              |
+ | 2022-03-21 | 10 (last)       | [N/A](#)                                              | [N/A](#)                                              |
