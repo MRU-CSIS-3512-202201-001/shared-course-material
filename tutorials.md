@@ -26,15 +26,15 @@ Here are the full instructions for our tutorials. Usually, these will only be ma
 
 _N/A means "not available (yet). If there's no entry at all for the tutorial, it means that tutorial won't ever have one!"_
 
-| Tutorial Number | Instruction Link                                                                                          |
-| --------------- | --------------------------------------------------------------------------------------------------------- |
-| 01              | [link]([#](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-01/tut-01.md)) |
-| 02              | [N/A](#)                                                                                                  |
-| 04              | [N/A](#)                                                                                                  |
-| 05              | [N/A](#)                                                                                                  |
-| 07              | [N/A](#)                                                                                                  |
-| 09              | [N/A](#)                                                                                                  |
-| 10 (last)       | [N/A](#)                                                                                                  |
+| Tutorial Number | Instruction Link                                                                                     |
+| --------------- | ---------------------------------------------------------------------------------------------------- |
+| 01              | [link](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-01/tut-01.md) |
+| 02              | [N/A](#)                                                                                             |
+| 04              | [N/A](#)                                                                                             |
+| 05              | [N/A](#)                                                                                             |
+| 07              | [N/A](#)                                                                                             |
+| 09              | [N/A](#)                                                                                             |
+| 10 (last)       | [N/A](#)                                                                                             |
 
 
 ## GitHub Classroom Links
