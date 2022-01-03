@@ -26,7 +26,7 @@ _N/A means "not available (yet)"_
 
 | Date       | Tutorial Number | Link (10 AM)    | Link    (11 AM) |
 | ---------- | --------------- | --------------- | --------------- |
-| 2022-01-10 | 01              | [10 AM link](#) | [11 AM link](#) |
+| 2022-01-10 | 01              | [10 AM link](https://classroom.github.com/a/rVE5S0fy) | [11 AM link](https://classroom.github.com/a/rVE5S0fy) |
 | 2022-01-17 | 02              | [N/A](#)        | [N/A](#)        |
 | 2022-01-31 | 04              | [N/A](#)        | [N/A](#)        |
 | 2022-02-07 | 05              | [N/A](#)        | [N/A](#)        |
