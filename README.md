@@ -74,7 +74,7 @@ With some luck, we'll be back live in the classroom from Jan 24 onward as per th
 
 **phone**: 403.440.6745 (W)
 
-**office hours**: [my calendar](https://bit.ly/jp-sched)
+**office hours**: [my calendar](https://bit.ly/jp-wint-2022-schedule)
 
 ### Getting Help
 
