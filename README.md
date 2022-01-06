@@ -11,20 +11,52 @@ Winter 2022
 
 - [Table of Contents](#table-of-contents)
 - [Section Details](#section-details)
+  - [The First Two Weeks (Jan 10 - Jan 20)](#the-first-two-weeks-jan-10---jan-20)
+  - [After the First Two Weeks (Jan 24 Onward)](#after-the-first-two-weeks-jan-24-onward)
 - [Instructor](#instructor)
-- [Required Text](#required-text)
-- [Recommended Labs](#recommended-labs)
-- [Dates & Deadline](#dates--deadline)
+    - [Getting Help](#getting-help)
+- [Course Materials](#course-materials)
+  - [Required Text](#required-text)
+  - [Recommended Labs](#recommended-labs)
+- [Dates & Deadlines](#dates--deadlines)
+  - [Important MRU Dates & Deadlines](#important-mru-dates--deadlines)
+  - [Course Assessment Dates & Deadlines](#course-assessment-dates--deadlines)
 - [Course Description](#course-description)
 - [Assessment](#assessment)
-- [Karma](#karma)
-- [Tutorial Exercises](#tutorial-exercises)
-- [Your Final Mark Calculation](#your-final-mark-calculation)
-- [Educational Outcomes](#educational-outcomes)
+  - [Assignments](#assignments)
+    - [Milestone Marking](#milestone-marking)
+    - [Milestone Late Policy](#milestone-late-policy)
+  - [Written Quizzes (x4)](#written-quizzes-x4)
+    - [Written Quiz Rewrites (x2)](#written-quiz-rewrites-x2)
+  - [Coding Quizzes (x4)](#coding-quizzes-x4)
+  - [Final Exam](#final-exam)
+- [karma](#karma)
+  - [Examples of Things That Improve karma](#examples-of-things-that-improve-karma)
+  - [karma Levels](#karma-levels)
+  - [Effects of Your Karma Level](#effects-of-your-karma-level)
+  - [One Last Thing](#one-last-thing)
+- [Tutorials](#tutorials)
+  - [Tutorials and karma](#tutorials-and-karma)
 - [Course Policies](#course-policies)
+  - [Attendance](#attendance)
+  - [Late Submissions](#late-submissions)
+      - [Technical Issues](#technical-issues)
+      - [Illness and Unforeseen Circumstances](#illness-and-unforeseen-circumstances)
 - [Required Technology](#required-technology)
+    - [Third-party Tools and Accounts](#third-party-tools-and-accounts)
+    - [Hardware](#hardware)
+    - [Software](#software)
+      - [Browser](#browser)
+      - [Visual Studio Code](#visual-studio-code)
+      - [Git Client](#git-client)
+      - [XAMPP](#xampp)
+- [Educational Outcomes](#educational-outcomes)
 - [Academic Accommodations](#academic-accommodations)
+  - [Disability-Related Accommodations](#disability-related-accommodations)
+  - [Non-Disability-Related Accommodations](#non-disability-related-accommodations)
 - [Academic Integrity](#academic-integrity)
+  - [Student Code of Conduct](#student-code-of-conduct)
+  - [Cheatin'](#cheatin)
 - [Freedom of Information and Protection of Privacy Act](#freedom-of-information-and-protection-of-privacy-act)
 - [Notice of Recording](#notice-of-recording)
 - [Course Evaluations](#course-evaluations)
@@ -41,7 +73,7 @@ The university has decided that the first 2 weeks of class will be temporarily (
 During this time, the course will be delivered synchronously as per this schedule:
 
 | Type | Section | Day | Time          | Location                                         | CRN   |
-| ---- | ------- | --- | ------------- | ------------------------------------------------ | ----- |
+|------|---------|-----|---------------|--------------------------------------------------|-------|
 | LEC  | 001     | TR  | 11:30 - 12:50 | Google Meet @ http://bit.ly/comp3512-w22-lecture | 10616 |
 | TUT  | 401     | M   | 10:00 - 10:50 | Discord @ https://discord.gg/nUhpyNv5Ta          | 10617 |
 | TUT  | 402     | M   | 11:00 - 11:50 | Discord @ https://discord.gg/nUhpyNv5Ta          | 10618 |
@@ -56,7 +88,7 @@ During this time, the course will be delivered synchronously as per this schedul
 With some luck, we'll be back live in the classroom from Jan 24 onward as per this schedule:
 
 | Type | Section | Day | Time          | Location | CRN   |
-| ---- | ------- | --- | ------------- | -------- | ----- |
+|------|---------|-----|---------------|----------|-------|
 | LEC  | 001     | TR  | 11:30 - 12:50 | B222     | 10616 |
 | TUT  | 401     | M   | 10:00 - 10:50 | B107     | 10617 |
 | TUT  | 402     | M   | 11:00 - 11:50 | B107     | 10618 |
@@ -137,7 +169,7 @@ While the purchase of the labs is not mandatory, if you don't pick them up, you'
 ## Important MRU Dates & Deadlines
 
 | What                     | When           |
-| ------------------------ | -------------- |
+|--------------------------|----------------|
 | First Day of Classes     | 2022-01-10 (M) |
 | Add/Drop Deadline        | 2022-01-18 (T) |
 | Withdrawal Deadline      | 2022-04-08 (F) |
@@ -188,7 +220,7 @@ Here's what Randy Connolly (who usually teaches the course and who wrote the tex
 # Assessment
 
 | Assessment Name                   |      Weight |
-| :-------------------------------- | ----------: |
+|:----------------------------------|------------:|
 | Assignment 1 (over 6 milestones)  |         19% |
 | Assignment 2  (over 5 milestones) |         19% |
 | Written Quizzes (4 @ 6%) *        |         24% |
@@ -214,7 +246,7 @@ Assignments will require weeks of steady work. To keep everyone on pace, assignm
 Each milestone will have a clear set of requirements that must be completed to reach a certain grade level. 
 
 | Grade Level | Corresponding % |
-| :---------- | :-------------: |
+|:------------|:---------------:|
 | Level 6     |       98%       |
 | Level 5     |       88%       |
 | Level 4     |       75%       |
