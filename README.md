@@ -39,7 +39,7 @@ The university has decided that the first 2 weeks of class will be temporarily (
 During this time, the course will be delivered synchronously as per this schedule:
 
 | Type | Section | Day | Time          | Location                                         | CRN   |
-|------|---------|-----|---------------|--------------------------------------------------|-------|
+| ---- | ------- | --- | ------------- | ------------------------------------------------ | ----- |
 | LEC  | 001     | TR  | 11:30 - 12:50 | Google Meet @ http://bit.ly/comp3512-w22-lecture | 10616 |
 | TUT  | 401     | M   | 10:00 - 10:50 | Discord @ https://discord.gg/nUhpyNv5Ta          | 10617 |
 | TUT  | 402     | M   | 11:00 - 11:50 | Discord @ https://discord.gg/nUhpyNv5Ta          | 10618 |
@@ -54,7 +54,7 @@ During this time, the course will be delivered synchronously as per this schedul
 With some luck, we'll be back live in the classroom from Jan 24 onward as per this schedule:
 
 | Type | Section | Day | Time          | Location | CRN   |
-|------|---------|-----|---------------|----------|-------|
+| ---- | ------- | --- | ------------- | -------- | ----- |
 | LEC  | 001     | TR  | 11:30 - 12:50 | B222     | 10616 |
 | TUT  | 401     | M   | 10:00 - 10:50 | B107     | 10617 |
 | TUT  | 402     | M   | 11:00 - 11:50 | B107     | 10618 |
@@ -135,7 +135,7 @@ While the purchase of the labs is not mandatory, if you don't pick them up, you'
 ## Important MRU Dates & Deadlines
 
 | What                     | When           |
-|--------------------------|----------------|
+| ------------------------ | -------------- |
 | First Day of Classes     | 2022-01-10 (M) |
 | Add/Drop Deadline        | 2022-01-18 (T) |
 | Withdrawal Deadline      | 2022-04-08 (F) |
@@ -186,7 +186,7 @@ Here's what Randy Connolly (who usually teaches the course and who wrote the tex
 # Assessment
 
 | Assessment Name                   |      Weight |
-|:----------------------------------|------------:|
+| :-------------------------------- | ----------: |
 | Assignment 1 (over 6 milestones)  |         19% |
 | Assignment 2  (over 5 milestones) |         19% |
 | Written Quizzes (4 @ 6%) *        |         24% |
@@ -212,7 +212,7 @@ Assignments will require weeks of steady work. To keep everyone on pace, assignm
 Each milestone will have a clear set of requirements that must be completed to reach a certain grade level. 
 
 | Grade Level | Corresponding % |
-|:------------|:---------------:|
+| :---------- | :-------------: |
 | Level 6     |       98%       |
 | Level 5     |       88%       |
 | Level 4     |       75%       |
@@ -224,7 +224,7 @@ Each milestone will have a clear set of requirements that must be completed to r
 
 ### Milestone Late Policy
 
-Milestones are expected to be handed in on time, but sometimes life happens. **After submitting your current work by the milestone deadline**, you (or your group) have the option of requesting a 48-hour extension to complete unmet requirements. There are a couple of details here you should know:
+Milestones are expected to be handed in on time, but sometimes life happens. **After submitting your current work by the milestone deadline**, you (or your group) have the option of requesting a **48-hour extension** to complete unmet requirements. There are a couple of details here you should know:
 
 1. Every time you request an extension, your karma will go down. The more extensions you request, the more your karma decreases.
 2. The improvement to your mark provided by the extension is limited by your (or your group's) karma level:
@@ -232,7 +232,7 @@ Milestones are expected to be handed in on time, but sometimes life happens. **A
    2. Good karma? Your mark can improve at most **2** levels.
    3. Excellent karma? Your mark can improve at most **3** levels.
 
-> _**Example:** Let's say that you're in a group with Good karma and have needed an extension. If your work at the time of the original deadline was at Level 3, then your resubmitted work will be at most Level 5, even if you complete all your unmet requirements. Likewise, if you're in a group with Poor karma and have submitted a Level 1 body of work by the original assignment deadline, using an extension will get you to at most Level 2._
+> _**Example:** Let's say that you're in a group with Good karma and need an extension. If your work at the time of the original deadline was at Level 3, then your resubmitted work will be at most Level 5, even if you complete all your unmet requirements. Likewise, if you're in a group with Poor karma and have submitted a Level 1 body of work by the original assignment deadline, using an extension will get you to at most Level 2._
 
 ## Written Quizzes (x4)
 
@@ -266,7 +266,7 @@ The final exam will be a **3-hour exam** and will consist of a written portion f
 
 ---
 
-# karma
+# Karma
 
 The **principle of karma**, according to Wikipedia, captures the idea that the
 
@@ -292,7 +292,7 @@ In this course, you will be assigned a "karma rating" based on whether you decid
 
 Not surprisingly, doing the opposite of the above will worsen your karma.
 
-## karma Levels
+## Karma Levels
 
 There are 4 levels of karma in this course:
 
@@ -305,16 +305,16 @@ You can always see your current karma level on Blackboard.
 
 ## Effects of Your Karma Level
 
-Doing things that improve karma will, besides having numerous indirect positive effects on your learning, will have the following two direct effects as well:
+Doing things that improve karma, besides having numerous indirect positive effects on your learning, will have the following two _direct_ effects as well:
 
 1. Grade improvements for milestones. (see [Milestone Late Policy](#milestone-late-policy))
 2. Bonus marks at the end of the course. (see [Assessment](#assessment))
 
-Notice that you are never directly penalized for Poor karma: I'll never deduct marks for it. In my opinion, behaving in ways that worsen karma is destructive enough without adding to the pain.
+Notice that you are never directly penalized for having Poor karma: I'll **never** deduct marks based on your Karma level. In my opinion, behaving in ways that worsen karma is destructive enough without adding to the pain.
 
 ## One Last Thing
 
-This whole karma thing is not meant to be evaluation of you as a person - it's an evaluation of the actions you perform. You are not your actions. But your actions have consequences.
+This whole karma thing is not meant to be evaluation of _you_ as a _person_ - it's an evaluation of the _actions_ you perform. **You are not your actions**. But your actions have consequences.
 
 ---
 
@@ -337,11 +337,11 @@ The exercises you will be asked to complete are closely related to the lab exerc
 
 In order to help you be prepared for the tutorials, the skills that you need to demonstrate will be provided to you well in advance. You will also be told what lab exercises you should complete to help with your preparation.
 
-About 5 minutes before the start of tutorials, you'll be given access to a link to the full instructions for that tutorial.
+Early in the morning before the start of tutorials, you'll be given access to a link to the full instructions for that tutorial and any starting files necessary.
 
 JP will be circulating through the lab during the tutorial, providing feedback and gauging how prepared you were for the tutorial.
 
-## Tutorials and karma
+## Tutorials and Karma
 
 Just showing up for tutorials in a punctual fashion will improve your karma, particularly if you do so consistently. 
 
