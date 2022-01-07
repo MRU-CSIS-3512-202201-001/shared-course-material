@@ -51,5 +51,3 @@ _If there's no active hyperlink for the tutorial, it means those full instructio
 |                                                 tut-07                                                 |
 |                                                 tut-09                                                 |
 |                                                 tut-10                                                 |
-
-                          |
