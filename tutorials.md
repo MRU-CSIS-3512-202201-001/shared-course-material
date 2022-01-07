@@ -1,56 +1,55 @@
-## Tutorials
+# Tutorials
 
 **NOTE: This information is for our "regular" tutorials, not the 4 tutorials where we run a coding quiz.**
+
+## GitHub Classroom Assignment Links
+
+These are the links to the GitHub Classroom "assignments" you need to accept and clone to a local repo to do the tutorials. Usually, these will only be made available early (like 4 AM?) on the morning of that tutorial.
+
+
+_If there's no active hyperlink for the tutorial, it means that GH Classroom assignment isn't available (yet)._
+
+ | Date       | Link                                              |
+ | ---------- | ------------------------------------------------- |
+ | 2022-01-10 | [tut-01](https://classroom.github.com/a/rVE5S0fy) |
+ | 2022-01-17 | tut-02                                            |
+ | 2022-01-31 | tut-04                                            |
+ | 2022-02-07 | tut-05                                            |
+ | 2022-02-28 | tut-07                                            |
+ | 2022-03-14 | tut-09                                            |
+ | 2022-03-21 | tut-10 (last)                                     |
+
 
 ## Preview Instructions
 
 In order to help you prepare for tutorials, you can access the following "stripped-down" versions of some tutorials; they give you a general idea what the tutorial is about, without providing full details.
 
-_N/A means "not available (yet). If there's no entry at all for the tutorial, it means that tutorial won't ever have one!"_
+_If there's no active hyperlink for the tutorial, it means that preview's not available (yet)._
 
-| Tutorial Number | Preview Link |
-| --------------- | ------------ |
-| 02              | [N/A](#)     |
-| 04              | [N/A](#)     |
-| 05              | [N/A](#)     |
-| 07              | [N/A](#)     |
-| 09              | [N/A](#)     |
-| 10 (last)       | [N/A](#)     |
+|                                               Preview Instruction  Links                                               |
+| :--------------------------------------------------------------------------------------------------------------------: |
+| [tut-02](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/blob/main/tut-02/tut-02-preview.md) |
+|                                                         tut-04                                                         |
+|                                                         tut-05                                                         |
+|                                                         tut-07                                                         |
+|                                                         tut-09                                                         |
+|                                                         tut-10                                                         |
 
 
 ## Full Instructions
 
-Here are the full instructions for our tutorials. Usually, these will only be made available a few minutes before the start of a tutorial.
+Here are the full instructions for our tutorials. Like the GitHub Classroom links, these will only be made available early in the morning (like 4 AM?) of that tutorial.
 
-**Make sure you choose the link associated with your tutorial time**: if you're in the 11 AM section and accept a 10 AM assignment, I'm going to assume that you're trying to get a head-start on things. That's not fair to the folks in the 10 AM section...and I'm going to karma-ding you accordingly. _(Naturally, if you do this by mistake, you'll let me know immediately and all will be right with the world.)_
+_If there's no active hyperlink for the tutorial, it means those full instructions aren't available (yet)._
 
-_N/A means "not available (yet). If there's no entry at all for the tutorial, it means that tutorial won't ever have one!"_
+|                                        Full Instruction  Links                                         |
+| :----------------------------------------------------------------------------------------------------: |
+| [tut-01](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-01/tut-01.md) |
+|                                                 tut-02                                                 |
+|                                                 tut-04                                                 |
+|                                                 tut-05                                                 |
+|                                                 tut-07                                                 |
+|                                                 tut-09                                                 |
+|                                                 tut-10                                                 |
 
-| Tutorial Number | Instruction Link                                                                                     |
-| --------------- | ---------------------------------------------------------------------------------------------------- |
-| 01              | [link](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-01/tut-01.md) |
-| 02              | [N/A](#)                                                                                             |
-| 04              | [N/A](#)                                                                                             |
-| 05              | [N/A](#)                                                                                             |
-| 07              | [N/A](#)                                                                                             |
-| 09              | [N/A](#)                                                                                             |
-| 10 (last)       | [N/A](#)                                                                                             |
-
-
-## GitHub Classroom Links
-
-These are the links to the GitHub Classroom "assignments" you need to accept and clone to a local repo to do the tutorials. 
-
-**Make sure you choose the link associated with your tutorial time**: if you're in the 11 AM section and accept a 10 AM assignment, I'm going to assume that you're trying to get a head-start on things. That's not fair to the folks in the 10 AM section...and I'm going to karma-ding you accordingly. _(Naturally, if you do this by mistake, you'll let me know immediately and all will be right with the world.)_
-
-_N/A means "not available (yet)"_
-
- | Date       | Tutorial Number | Link (10 AM)                                          | Link    (11 AM)                                       |
- | ---------- | --------------- | ----------------------------------------------------- | ----------------------------------------------------- |
- | 2022-01-10 | 01              | [10 AM link](https://classroom.github.com/a/rVE5S0fy) | [11 AM link](https://classroom.github.com/a/rVE5S0fy) |
- | 2022-01-17 | 02              | [N/A](#)                                              | [N/A](#)                                              |
- | 2022-01-31 | 04              | [N/A](#)                                              | [N/A](#)                                              |
- | 2022-02-07 | 05              | [N/A](#)                                              | [N/A](#)                                              |
- | 2022-02-28 | 07              | [N/A](#)                                              | [N/A](#)                                              |
- | 2022-03-14 | 09              | [N/A](#)                                              | [N/A](#)                                              |
- | 2022-03-21 | 10 (last)       | [N/A](#)                                              | [N/A](#)                                              |
+                          |
