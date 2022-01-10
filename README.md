@@ -16,7 +16,7 @@ Winter 2022
 - [Dates & Deadlines](#dates--deadlines)
 - [Course Description](#course-description)
 - [Assessment](#assessment)
-- [karma](#karma)
+- [Karma](#karma)
 - [Tutorials](#tutorials)
 - [Course Policies](#course-policies)
 - [Required Technology](#required-technology)
@@ -72,7 +72,11 @@ With some luck, we'll be back live in the classroom from Jan 24 onward as per th
 
 **phone**: 403.440.6745 (W)
 
-**office hours**: [my calendar](https://bit.ly/jp-wint-2022-schedule)
+**office hours**: 
+- [my Google calendar if you're logged in to your mtroyal Google account](https://bit.ly/jp-wint-2022-schedule)
+- [my webpage calendar if you're not](https://bit.ly/jp-wint-2022-schedule-webpage)
+
+_If my calendar says I'm on campus, I'll be on campus and will respond to emails or Discord DMs when I can. If you need to have a conversation with me, see the next section._
 
 ### Getting Help
 
@@ -82,7 +86,7 @@ If you'd like to ask me a question, how you get help will depend on **where** yo
 
 If you are comfortable talking in person (it's my preferred mode of communication), please swing by my office. I even have a chair for guests. It's one of those crappy lab chairs, but it's still a chair **just for you**.
 
-If you need to talk to me online (because you're home or kinda shy), then you _might_ be able to reach me online. You'll need to use the IA Help System to do so:
+If you need to talk to me online (because you're home or kinda shy - or because MRU has put in-person things on pause), then you can reach me online. You'll need to use the IA Help System to do so:
 
 1. Look up the IA (that's Steve Kalmar and me) availability for the day: [bit.ly/comp-help-availability](http://bit.ly/comp-help-availability-w21)
 2. When both **you and the IA you want to talk to** are available, fill out this form: [bit.ly/comp-help-form](https://bit.ly/comp-help-form)
@@ -91,9 +95,9 @@ If you need to talk to me online (because you're home or kinda shy), then you _m
 
 > _Please don't send pics of your code in an email to ask a question - it drives me bonkers. Sending either a copy/paste of your code in an email, or, preferably, giving me a GitHub link, is better._
 
-Other questions not involving code can be tossed my way via email. If emails arrive after office hours, I may or may not respond...depends on how life is going at that moment!
+Other questions not involving code can be tossed my way via email. If emails arrive after work hours, I may or may not respond...depends on how life is going at that moment!
 
-> **_Please don't DM me on Discord outside of tutorial hours - the Help System is meant to be a fair way for all students from different courses to ask questions. If one set of students gets to use Discord, it gives them a way to "jump the queue"...and that's not fair, dagnabbit. Also, I use Discord for personal reasons (I do have a life! kinda...) and when I'm using Discord after-hours, it's disruptive to have questions come in. Yeah, I guess I could have 2 different accounts, but my life is complicated enough._**
+> **_Please don't DM me on Discord outside of work hours - the Help System is meant to be a fair way for all students from different courses to ask questions. If one set of students gets to use Discord, it gives them a way to "jump the queue"...and that's not fair, dagnabbit. Also, I use Discord for personal reasons (I do have a life! kinda...) and when I'm using Discord after-hours, it's disruptive to have questions come in. Yeah, I guess I could have 2 different accounts, but my life is complicated enough._**
 
 ---
 
