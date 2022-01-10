@@ -64,3 +64,11 @@ That being said, here are a few things to look at:
    6. [GitHub's Learning Lab](https://lab.github.com/)
    7. [Education community forum](https://education.github.community/)
    8. [GitHub community forum](https://github.community/) 
+
+## [Execute Program](https://www.executeprogram.com)
+
+This site has a good number of hands-on, short, and well-explained "courses" on a number of JS topics....but "course" is probably the wrong word.
+
+You can get 16 lessons for free (no credit card needed), which is enough to get you through a goodly amount of material.
+
+I'd strongly suggest using your 16 lessons on the [JavaScript Arrays](https://www.executeprogram.com/courses/javascript-array) content. (Focus on forEach, sort, map, and filter.)
