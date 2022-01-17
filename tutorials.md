@@ -12,7 +12,7 @@ _If there's no active hyperlink for the tutorial, it means that GH Classroom ass
  | Date       | Link                                              |
  | ---------- | ------------------------------------------------- |
  | 2022-01-10 | [tut-01](https://classroom.github.com/a/rVE5S0fy) |
- | 2022-01-17 | tut-02                                            |
+ | 2022-01-17 | [tut-02](https://classroom.github.com/a/x7ryYqH6) |
  | 2022-01-31 | tut-04                                            |
  | 2022-02-07 | tut-05                                            |
  | 2022-02-28 | tut-07                                            |
@@ -33,7 +33,7 @@ _If there's no active hyperlink for the tutorial, it just means not available (y
 |                                                      Preview Instructions                                                      |                                              Full Instructions                                              |
 | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 |                                                              none                                                              | [tut-01 full](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-01/tut-01.md) |
-| [tut-02 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/blob/main/tut-02/tut-02-preview.md) |                                                 tut-02 full                                                 |
+| [tut-02 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/blob/main/tut-02/tut-02-preview.md) | [tut-02 full](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-02/tut-02.md) |
 |                                                         tut-04 preview                                                         |                                                 tut-04 full                                                 |
 |                                                         tut-05 preview                                                         |                                                 tut-05 full                                                 |
 |                                                         tut-07 preview                                                         |                                                 tut-07 full                                                 |
