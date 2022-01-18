@@ -28,7 +28,7 @@ My go-to site for excellent frontend education. Most of the content you have to 
 
 1. (Free) [Web Development Bootcamp](https://frontendmasters.com/bootcamp/). 21 hours of free content. If it's been a while since you've CSS'd, you could take a spin through the [Introduction to CSS](https://frontendmasters.com/bootcamp/introduction-css/) portion. The [Introduction to JavaScript](https://frontendmasters.com/bootcamp/introduction-javascript/) portion is taught by my favorite instructor on FEM, Brian Holt.
 2. (Paid) [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) and [JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/). After you've got some JS under your belt and you want to develop a deeper understanding of JS, these are great courses to watch. Plus, Will's got an awesome accent.
-3. (Paid) [Getting Started with JavvaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) is a good intro to the language, while [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/) is, like the material mentioned in 2, is aimed more toward someone who has some JS experience, but wants a deeper understanding of the language. Highly recommended. 
+3. (Paid) [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/) is a good intro to the language, while [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/) is, like the material mentioned in 2, is aimed more toward someone who has some JS experience, but wants a deeper understanding of the language. Highly recommended. 
 
 ## [Refactoring UI](https://www.refactoringui.com/)
 
