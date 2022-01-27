@@ -51,11 +51,11 @@ During this time, the course will be delivered synchronously as per this schedul
 
 ## After the First Two Weeks (Jan 24 Onward)
 
-With some luck, we'll be back live in the classroom from Jan 24 onward as per this schedule:
+With some luck, we'll be back live in the classroom from Feb 8 onward as per this schedule:
 
 | Type | Section | Day | Time          | Location | CRN   |
 |------|---------|-----|---------------|----------|-------|
-| LEC  | 001     | TR  | 11:30 - 12:50 | B222     | 10616 |
+| LEC  | 001     | TR  | 11:30 - 12:50 | E203     | 10616 |
 | TUT  | 401     | M   | 10:00 - 10:50 | B107     | 10617 |
 | TUT  | 402     | M   | 11:00 - 11:50 | B107     | 10618 |
 
