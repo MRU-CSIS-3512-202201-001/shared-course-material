@@ -226,6 +226,18 @@ Each milestone will have a clear set of requirements that must be completed to r
 | Level 0     |       0%        |
 
 
+### Milestone Oops Policy
+
+**This is a new policy as of 2022-01-27.**
+
+If you have a minor slip that has caused you to miss a requirement, I may - solely at my discretion, based on the situation - decide to give you a chance to fix your slip.
+
+If you get your feedback sheet from me and your mark says `NEEDS FIXIN'`, look for a note in the `Unmet Requirements` part of that sheet for an item marked `FIXABLE`. You have 24 hours from the time I add your feedback sheet to your GitHub repository to fix the problem AND email me to let me know that the problem has been fixed.
+
+- You will ever only get ONE such opportunity per milestone.
+- If you do NOT email me in time, or neglect to email me, I will not consider the work complete - and you will NOT get a second chance for that milestone.
+
+
 ### Milestone Late Policy
 
 Milestones are expected to be handed in on time, but sometimes life happens. **After submitting your current work by the milestone deadline**, you (or your group) have the option of requesting a **48-hour extension** to complete unmet requirements. There are a couple of details here you should know:
@@ -237,6 +249,8 @@ Milestones are expected to be handed in on time, but sometimes life happens. **A
    ~~3. Excellent karma? Your mark can improve at most **3** levels.~~
 
 > _Comment from JP (2022-01-25): I've removed the 2nd aspect of the late policy for two reasons: 1) It is a pain to administer, and 2) It somewhat cruelly takes away the opportunity to improve from people who need it the most._
+
+> _Comment from JP (2022-01-27): I've modified the process for extensions in the following way: you no longer need to request an extension; instead, I will assume **any submission of work related to the milestone in question means you are implicitly requesting an extension and I will treat it as such.** This means you don't have to email me to ask for extensions. Keep in mind that all such extensions will still cause a karma drop as normal._
 
 ## Written Quizzes (x4)
 
