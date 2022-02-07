@@ -10,11 +10,11 @@ These are the links to the GitHub Classroom "assignments" you need to accept and
 _If there's no active hyperlink for the tutorial, it means that GH Classroom assignment isn't available (yet)._
 
  | Date       | Link                                              |
- | ---------- | ------------------------------------------------- |
+ |------------|---------------------------------------------------|
  | 2022-01-10 | [tut-01](https://classroom.github.com/a/rVE5S0fy) |
  | 2022-01-17 | [tut-02](https://classroom.github.com/a/x7ryYqH6) |
  | 2022-01-31 | [tut-04](https://classroom.github.com/a/aasItZMP) |
- | 2022-02-07 | tut-05                                            |
+ | 2022-02-07 | [tut-05](https://classroom.github.com/a/5XgWQu6Z) |
  | 2022-02-28 | tut-07                                            |
  | 2022-03-14 | tut-09                                            |
  | 2022-03-21 | tut-10 (last)                                     |
@@ -31,7 +31,7 @@ The full instructions for tutorials, like the GitHub Classroom links, will only 
 _If there's no active hyperlink for the tutorial, it just means not available (yet)._
 
 |                                                      Preview Instructions                                                      |                                              Full Instructions                                              |
-| :----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+|:------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
 |                                                              none                                                              | [tut-01 full](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-01/tut-01.md) |
 | [tut-02 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/blob/main/tut-02/tut-02-preview.md) | [tut-02 full](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-02/tut-02.md) |
 |          [tut-04 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/tree/main/tut-04)          |      [tut-04 full](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/tree/main/tut-04)      |
