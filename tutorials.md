@@ -36,7 +36,7 @@ _If there's no active hyperlink for the tutorial, it just means not available (y
 | [tut-02 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/blob/main/tut-02/tut-02-preview.md) | [tut-02 full](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/blob/main/tut-02/tut-02.md) |
 |          [tut-04 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/tree/main/tut-04)          |      [tut-04 full](https://github.com/MRU-CSIS-3512-202201-001/tut-instructions-full/tree/main/tut-04)      |
 |          [tut-05 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/tree/main/tut-05)          |                                              in starting repo                                               |
-|                                                         tut-07 preview                                                         |                                                 tut-07 full                                                 |
+|          [tut-07 preview](https://github.com/MRU-CSIS-3512-202201-001/tutorial-instructions-preview/tree/main/tut-07)          |                                              in starting repo                                               |
 |                                                         tut-09 preview                                                         |                                                 tut-09 full                                                 |
 |                                                         tut-10 preview                                                         |                                                 tut-10 full                                                 |
 
