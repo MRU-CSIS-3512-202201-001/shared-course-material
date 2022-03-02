@@ -2,6 +2,9 @@
 
 Links for the starting repos for the "real" and practice coding quizzes live here, happily.
 
+## quiz-03
+- [coding-quiz-03-practice](https://classroom.github.com/a/vgvb9lXP)
+- coding-quiz-02
 
 ## quiz-02
 - [coding-quiz-02-practice](https://classroom.github.com/a/IRtn85G8)
