@@ -17,7 +17,7 @@ _If there's no active hyperlink for the tutorial, it means that GH Classroom ass
  | 2022-02-07 | [tut-05](https://classroom.github.com/a/5XgWQu6Z) |
  | 2022-02-28 | [tut-07](https://classroom.github.com/a/ysGyugQt) |                                            
  | 2022-03-14 | [tut-09](https://classroom.github.com/a/PGUvFhLs) |
- | 2022-03-21 | tut-10 (last)                                     |
+ | 2022-03-21 | [tut-10](https://classroom.github.com/a/FcGOV3Hl)                                     |
 
 
 ## Instructions
