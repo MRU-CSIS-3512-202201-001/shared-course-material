@@ -2,6 +2,11 @@
 
 Here is a list of screencasts that I've done for the course. Many will require you to log in with your mtroyal.ca email account.
 
+## Tut-10
+
+- [Tut-10: Talkthrough (ex-01)](https://watch.screencastify.com/v/yagdT7MwtA1navhDYKXo) [24:05]
+- [Tut-10: Talkthrough (ex-02)](https://watch.screencastify.com/v/d5DQSwvnM40BP2zO6b28) [21:17]
+
 ## Tut-09
 
 - [Tut-09: Talkthrough (ex-01)](https://watch.screencastify.com/v/0fHMlUFbXfeFjZ3b0R79) [25:47]
