@@ -9,7 +9,7 @@ Links for the starting repos for the "real" and practice coding quizzes live her
 
 ## quiz-03
 - [coding-quiz-03-practice](https://classroom.github.com/a/vgvb9lXP)
-- coding-quiz-03
+- [coding-quiz-03](https://classroom.github.com/a/OKbJ0vdu)
 
 ## quiz-02
 - [coding-quiz-02-practice](https://classroom.github.com/a/IRtn85G8)
